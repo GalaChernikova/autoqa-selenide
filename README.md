@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/umhr9n6fl96km54f?svg=true)](https://ci.appveyor.com/project/GalaChernikova/autoqa-selenide)
